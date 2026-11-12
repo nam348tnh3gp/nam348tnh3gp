@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gor-mez8.onrender.com/render?text=%5Bcontent+has+been+deleted%5D&effect=dropout&w=520&h=50&size=26&c1=b91c1c&bg=0b0b0d&fps=15&dur=2.5&seed=7" alt="deleted" />
+  <img src="https://gor-mez8.onrender.com/render?text=%5Bcontent+has+been+deleted%5D&effect=slice&w=520&h=50&size=26&c1=b91c1c&bg=0b0b0d&fps=15&dur=2.5&seed=7" alt="deleted" />
 </p>
 
 <p align="center">
